@@ -1,7 +1,5 @@
 # EXP.NO.11-Simulation-of-Spread-Spectrum-Modulation-Techniques
 
-11.Simulation of Spread Spectrum Modulation Techniques
-
 # AIM
 
 To simulate the process of Direct Sequence Spread Spectrum (DSSS) modulation using Binary Phase Shift Keying (BPSK).
